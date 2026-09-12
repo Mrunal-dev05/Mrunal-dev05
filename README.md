@@ -1,16 +1,24 @@
-## Hi there 👋
+[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=Mrunal-dev05&theme=monochrome-dark-gradient&locale=en&title=Mrunal+Pimpale+%E2%80%94+Software+Engineer&hide=forks%2Cissues%2Ccontributed&show=reviews&border_radius=12&photo_quality=90&hide_border=false&hide_stroke=true)](https://bit.ly/gh-readme-profile)
 
-<!--
-**Mrunal-dev05/Mrunal-dev05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://bit.ly/gh-readme-profile"><img src="https://gh-readme-profile.vercel.app/api?username=Mrunal-dev05&theme=monochrome-dark-gradient&locale=en&title=Mrunal+Pimpale+%E2%80%94+Software+Engineer&hide=forks%2Cissues%2Ccontributed&show=reviews&border_radius=12&photo_quality=90&hide_border=false&hide_stroke=true" alt="GitHub Readme Profile"/></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "username": "Mrunal-dev05",
+  "theme": "monochrome-dark-gradient",
+  "locale": "en",
+  "title": "Mrunal Pimpale — Software Engineer",
+  "hide": [
+    "forks",
+    "issues",
+    "contributed"
+  ],
+  "show": [
+    "reviews"
+  ],
+  "border_radius": 12,
+  "photo_resize": 150,
+  "photo_quality": 90,
+  "hide_border": false,
+  "hide_stroke": true,
+  "disable_animation": false
+}
